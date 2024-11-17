@@ -4,7 +4,7 @@
 
 I’ve been diving into the world of football data analysis, exploring how AI and computer vision techniques can transform our understanding of the game. One area I’m particularly excited about is using **YOLO** for real-time object detection and player tracking.
 
-![Football Analysis](https://github.com/muhdaliyan/football_analysis-p1/blob/main/output_images/screenshot.png)
+![Football Analysis](https://github.com/muhdaliyan/football_analysis-p1/blob/main/output_images/output1.png)
 
 
 ### 📚 What I’m Exploring:
